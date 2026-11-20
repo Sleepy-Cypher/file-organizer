@@ -75,3 +75,4 @@ Folder not found
 - If a file can't be moved (for example, it is open in another program), the script prints the reason, logs it as `failed`, and counts it as skipped.
 - Skipped files are recorded only in the log, not printed on the screen.
 - `organizer_log.txt` is created in the folder you run the script from.
+hi iam here, have fun
